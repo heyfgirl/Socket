@@ -8,8 +8,8 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "4.4.0",
-    "npm": "2.1.x"  
+    "node": "4.4.4",
+    "npm": "2.15.1"  
   },
   "dependencies": {
     "body-parser": "~1.15.2",
